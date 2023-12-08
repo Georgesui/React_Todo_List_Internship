@@ -1,5 +1,7 @@
 1. You should clone this repository, use below link in command line:
 
+`git clone https://github.com/Georgesui/React_Todo_List_Internship.git`
+
 2. Navigate to your project derictory like using "cd" command in the same command line;
 
 3. Use "npm i" in the same directory after using part 2 in order to install dependencies;
